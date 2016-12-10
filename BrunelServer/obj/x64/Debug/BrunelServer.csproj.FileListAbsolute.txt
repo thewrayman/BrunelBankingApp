@@ -1,0 +1,9 @@
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\bin\x64\Debug\BrunelServer.exe.config
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\bin\x64\Debug\BrunelServer.exe
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\bin\x64\Debug\BrunelServer.pdb
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\obj\x64\Debug\BrunelServer.csprojResolveAssemblyReference.cache
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\obj\x64\Debug\BrunelServer.Properties.Resources.resources
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\obj\x64\Debug\BrunelServer.csproj.GenerateResource.Cache
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\obj\x64\Debug\BrunelServer.exe
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\obj\x64\Debug\BrunelServer.pdb
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\obj\x64\Debug\BrunelServer.Form1.resources

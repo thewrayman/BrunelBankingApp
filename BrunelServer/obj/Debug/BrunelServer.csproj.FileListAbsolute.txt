@@ -1,0 +1,1 @@
+c:\users\emmet\documents\visual studio 2015\Projects\BrunelBankingApp\BrunelServer\bin\Debug\BrunelServer.exe.config
