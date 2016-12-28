@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunelServer", "BrunelServe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunelClient", "BrunelClient\BrunelClient.csproj", "{3E45375A-4F60-42CC-8731-51DA941D6D0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{DFAD21FF-5230-405C-AE23-B4496C972340}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{3E45375A-4F60-42CC-8731-51DA941D6D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E45375A-4F60-42CC-8731-51DA941D6D0D}.Release|x64.ActiveCfg = Release|Any CPU
 		{3E45375A-4F60-42CC-8731-51DA941D6D0D}.Release|x64.Build.0 = Release|Any CPU
+		{DFAD21FF-5230-405C-AE23-B4496C972340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAD21FF-5230-405C-AE23-B4496C972340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAD21FF-5230-405C-AE23-B4496C972340}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DFAD21FF-5230-405C-AE23-B4496C972340}.Debug|x64.Build.0 = Debug|Any CPU
+		{DFAD21FF-5230-405C-AE23-B4496C972340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAD21FF-5230-405C-AE23-B4496C972340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAD21FF-5230-405C-AE23-B4496C972340}.Release|x64.ActiveCfg = Release|Any CPU
+		{DFAD21FF-5230-405C-AE23-B4496C972340}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
